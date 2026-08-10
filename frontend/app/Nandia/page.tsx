@@ -1,5 +1,5 @@
 const Page = () => {
-    return (
+    return(
         <div>Nandia</div>
     )
 }
