@@ -1,3 +1,3 @@
 export const page = () => {
-    console.log("bileguudei");
+    return <div>aaaa</div>
 }
